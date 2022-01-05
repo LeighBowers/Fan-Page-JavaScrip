@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://external-preview.redd.it/EG7bjGp5PDvZ8golrKh3m84n-A9khC5jDE-hqqoVfvA.png?format=pjpg&auto=webp&s=3d441c3774c597cd0136e9634303ef86c0d8677a");  
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(243, 231, 217);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+}
+ button {
+  background-color: #881515a8; /* Green */
+  border: none;
+  color: rgb(5, 4, 4);
+  padding-top: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 50px;
+  font-style: italic;
+  border: 2px solid #8a100cef; /* Green */
+}
+
+ button:hover {
+  background-color: #443e3d;
+}
+
+img{
+    width: 15%;
+    background-color: rgba(255, 235, 205, 0.418);
+    margin-top: 15px;
+    margin-right: 30px;
+
+}
+img:hover{
+  background-color: #443e3d;
+
+}
+h1,h4{
+  color: black;
+  font-style: italic;
+  font-size: 45px;
+  
+}
+
